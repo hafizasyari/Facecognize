@@ -116,7 +116,7 @@ public class Start extends AppCompatActivity {
             //Membuat gambar kotak untuk wajah yang terdeteksi
             Paint myRectPaint = new Paint();
             //tebal garis
-            myRectPaint.setStrokeWidth(5);
+            myRectPaint.setStrokeWidth(8);
             //warna garis
             myRectPaint.setColor(Color.RED);
             //style paint hanya sebuah garis
